@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Settings</string>
+    <string name="tvTuDongDoc">Tự Động Đọc</string>
+    <string name="tvNgonNgu">Ngôn Ngữ</string>
+    <string name="tvChiaSeApp">Chia Sẻ App</string>
+    <string name="tvDanhGiaApp">Đánh Giá App</string>
+    <string name="btnDangxuat">Đăng Xuất</string>
+    <string name="tvykien">"Ý Kiến "</string>
+</resources>
